@@ -20,4 +20,10 @@ You will also see any lint errors in the console.
 
 ## Running unit tests
 
-------
+Install additionally Jest as a dev dependency
+
+### `npm install --save-dev jest`
+
+For starting unit tests run the command in the root directory
+
+### `npm run test`
